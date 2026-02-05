@@ -7,3 +7,6 @@
 [submodule "3D Surface Visualizer and Optimizer"]
 	path = 3D Surface Visualizer and Optimizer
 	url = https://github.com/SENODROOM/3D-Surface-Visualizer-and-Optimizer.git
+[submodule "Console Based Simple Calculator"]
+	path = Console Based Simple Calculator
+	url = https://github.com/SENODROOM/Console-Based-Simple-Calculator-Cpp.git
